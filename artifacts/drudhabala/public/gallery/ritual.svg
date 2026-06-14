@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 700">
+  <rect width="700" height="700" fill="#fdfaf6"/>
+  <circle cx="350" cy="344" r="250" fill="#efe3d1"/>
+  <circle cx="350" cy="324" r="150" fill="#1f4d36"/>
+  <circle cx="350" cy="324" r="104" fill="#c89b3c"/>
+  <circle cx="350" cy="324" r="54" fill="#fdfaf6"/>
+  <g fill="#6a3ea1" opacity=".45">
+    <path d="M350 74c34 52 34 96 0 132-34-36-34-80 0-132Z"/>
+    <path d="M350 574c-34-52-34-96 0-132 34 36 34 80 0 132Z"/>
+    <path d="M100 324c52-34 96-34 132 0-36 34-80 34-132 0Z"/>
+    <path d="M600 324c-52 34-96 34-132 0 36-34 80-34 132 0Z"/>
+  </g>
+  <text x="350" y="636" text-anchor="middle" font-family="Georgia,serif" font-size="38" fill="#1f4d36">Daily Rituals</text>
+</svg>

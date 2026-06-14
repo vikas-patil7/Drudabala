@@ -1,0 +1,14 @@
+{
+  "npm.packageManager": "npm",
+  "typescript.tsdk": "artifacts/drudhabala/node_modules/typescript/lib",
+  "typescript.preferences.importModuleSpecifier": "non-relative",
+  "typescript.preferences.importModuleSpecifierEnding": "minimal",
+  "search.exclude": {
+    "**/node_modules": true,
+    "**/dist": true
+  },
+  "files.exclude": {
+    "artifacts/drudhabala/node_modules": true,
+    "artifacts/drudhabala/dist": true
+  }
+}

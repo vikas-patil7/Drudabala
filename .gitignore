@@ -1,0 +1,12 @@
+node_modules/
+dist/
+*.log
+
+artifacts/drudhabala/node_modules/
+artifacts/drudhabala/dist/
+artifacts/drudhabala/*.log
+
+.env
+.env.*
+.vercel/
+.netlify/

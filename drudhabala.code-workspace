@@ -1,0 +1,16 @@
+{
+  "folders": [
+    {
+      "name": "Drudhabala Website",
+      "path": "artifacts/drudhabala"
+    },
+    {
+      "name": "Workspace Root",
+      "path": "."
+    }
+  ],
+  "settings": {
+    "npm.packageManager": "npm",
+    "typescript.tsdk": "artifacts/drudhabala/node_modules/typescript/lib"
+  }
+}

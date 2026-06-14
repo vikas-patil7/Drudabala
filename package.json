@@ -1,0 +1,10 @@
+{
+  "name": "drudabala-workspace",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "npm.cmd --prefix artifacts/drudhabala run dev",
+    "build": "npm.cmd --prefix artifacts/drudhabala run build",
+    "preview": "npm.cmd --prefix artifacts/drudhabala run preview"
+  }
+}

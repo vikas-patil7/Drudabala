@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 1000" preserveAspectRatio="xMidYMid slice">
+  <defs>
+    <linearGradient id="bg" x1="0" x2="1" y1="0" y2="1">
+      <stop stop-color="#0a2218"/>
+      <stop offset=".42" stop-color="#1f4d36"/>
+      <stop offset=".72" stop-color="#36562d"/>
+      <stop offset="1" stop-color="#0d2a1c"/>
+    </linearGradient>
+    <radialGradient id="gold" cx=".5" cy=".42" r=".48">
+      <stop stop-color="#c89b3c" stop-opacity=".62"/>
+      <stop offset=".68" stop-color="#c89b3c" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="1600" height="1000" fill="url(#bg)"/>
+  <rect width="1600" height="1000" fill="url(#gold)"/>
+  <g fill="none" stroke="#ead39a" stroke-opacity=".22">
+    <ellipse cx="800" cy="500" rx="650" ry="370"/>
+    <ellipse cx="800" cy="500" rx="510" ry="290"/>
+    <path d="M0 720C290 570 410 410 800 500c360 80 510-90 800-250"/>
+    <path d="M120 0c210 230 380 375 680 500 300-125 470-270 680-500"/>
+  </g>
+  <g fill="#ead39a" fill-opacity=".12">
+    <path d="M322 690c-34-85 18-157 108-173-16 88-52 143-108 173Z"/>
+    <path d="M1264 268c78 32 103 106 70 174-64-49-86-103-70-174Z"/>
+    <path d="M980 772c-26-70 14-131 88-145-11 73-39 117-88 145Z"/>
+  </g>
+</svg>
